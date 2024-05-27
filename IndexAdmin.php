@@ -44,32 +44,32 @@
             <h1>Browse Genres</h1>
         </div>
         <section class="categories">
-            <a href="action.html" class="category-link">
+            <a href="action.php" class="category-link">
                 <div class="category">
                     <h3>Action</h3>
                 </div>
             </a>
-            <a href="adventure.html" class="category-link">
+            <a href="adventure.php" class="category-link">
                 <div class="category">
                     <h3>Adventure</h3>
                 </div>
             </a>
-            <a href="rpg.html" class="category-link">
+            <a href="rpg.php" class="category-link">
                 <div class="category">
                     <h3>RPG</h3>
                 </div>
             </a>
-            <a href="simulation.html" class="category-link">
+            <a href="simulation.php" class="category-link">
                 <div class="category">
                     <h3>Simulation</h3>
                 </div>
             </a>
-            <a href="strategy.html" class="category-link">
+            <a href="strategy.php" class="category-link">
                 <div class="category">
                     <h3>Strategy</h3>
                 </div>
             </a>
-            <a href="sports.html" class="category-link">
+            <a href="sports.php" class="category-link">
                 <div class="category">
                     <h3>Sports</h3>
                 </div>

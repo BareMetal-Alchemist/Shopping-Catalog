@@ -160,3 +160,17 @@ form button:hover {
 label {
     color: white;
 }
+
+.pagination {
+    margin-top: 20px;
+    text-align: center;
+}
+.pagination a {
+    margin: 0 5px;
+    text-decoration: none;
+    color: white;
+}
+.pagination a.active {
+    font-weight: bold;
+    color: #4a3c6e;
+}

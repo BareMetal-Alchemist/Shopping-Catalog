@@ -11,7 +11,9 @@
     
     <header class="navbar">
         <div class = "container">
-            <img class="logo" src="Logo.webp">
+            <a href = "Index.php">
+                <img class="logo" src="Logo.webp" >
+            </a>
             <h1>GHOST</h1>
         </div>
         <div class="user">
@@ -43,25 +45,37 @@
             <h1>Browse Genres</h1>
         </div>
         <section class="categories">
-            <div class="category">
-                <h3>Action</h3>
-            </div>
-            <div class="category">
-                <h3>Adventure</h3>
-            </div>
-            <div class="category">
-                <h3>RPG</h3>
-            </div>
-            <div class="category">
-                <h3>Simulation</h3>
-            </div>
-            <div class="category">
-                <h3>Strategy</h3>
-            </div>
-            <div class="category">
-                <h3>Sports</h3>
-            </div>
-        </section>
+            <a href="action.html" class="category-link">
+                <div class="category">
+                    <h3>Action</h3>
+                </div>
+            </a>
+            <a href="adventure.html" class="category-link">
+                <div class="category">
+                    <h3>Adventure</h3>
+                </div>
+            </a>
+            <a href="rpg.html" class="category-link">
+                <div class="category">
+                    <h3>RPG</h3>
+                </div>
+            </a>
+            <a href="simulation.html" class="category-link">
+                <div class="category">
+                    <h3>Simulation</h3>
+                </div>
+            </a>
+            <a href="strategy.html" class="category-link">
+                <div class="category">
+                    <h3>Strategy</h3>
+                </div>
+            </a>
+            <a href="sports.html" class="category-link">
+                <div class="category">
+                    <h3>Sports</h3>
+                </div>
+            </a>
+        </section
     </main>
     <footer class = "footer">
         <p>&copy; 2024 GHOST. All rights reserved.</p>
